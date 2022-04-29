@@ -1,3 +1,3 @@
 # CV
 
-link ---> https://cv-onyekachi-fakoya.netlify.app/
+  hosted here ---> https://cv-onyekachi-fakoya.netlify.app/
